@@ -69,7 +69,7 @@ This Java program is designed to automate the process of installing necessary ne
 **3.Run the Java Program:**
 ```bash
   java NetworkResearchProject
-
+```
 
 **Notes**
 _Permissions_: Ensure you have the necessary permissions to execute the required system commands (e.g., sudo access for installing packages).
