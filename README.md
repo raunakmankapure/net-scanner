@@ -73,7 +73,7 @@ This Java program is designed to automate the process of installing necessary ne
 
 **OR IF YOU RUNNUNG THIS CODE IN ANY IDE, YOU CAN SIMPLY RUN THE PROGRAM FOR IDE**
 
-**Notes**
+
 _Permissions_: Ensure you have the necessary permissions to execute the required system commands (e.g., sudo access for installing packages).
 _Dependencies_: The program relies on external packages and services (e.g., sshpass, git, geoiplookup). Ensure these are installed on your system.
 _File_ _Paths_: Adjust file paths if needed, especially for logging and saving outputs.
