@@ -63,9 +63,11 @@ This Java program is designed to automate the process of installing necessary ne
    cd network-research-project
    
 **2. Compile the Java Program:**
+```bash
    javac NetworkResearchProject.java
-   
+   ```
 **3.Run the Java Program:**
+```bash
   java NetworkResearchProject
 
 
